@@ -1,2 +1,2 @@
 Este es el setup de mi app web
-Quiero mover al stagin area y local repository para despues moverlo al WD.
+Quiero mover al stagin area y local repository para subirlo al repositorio remoto
