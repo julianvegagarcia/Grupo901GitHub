@@ -1,10 +1,10 @@
 # Grupo901GitHub
 
-##JulianVega
+## JulianVega
 
-###julian es otaku!!
+### julian es otaku!!
 
-######Esta es la letra mas chica
+###### Esta es la letra mas chica
 
 *cursiva la letra*
 
