@@ -10,4 +10,10 @@
 
 **Acapulco es negro**
 
-[Click Aquí]https://www.github.com
+[Click Aquí](https://www.github.com)
+
+__Resaltado__
+
+```Javascript
+    console.log("Hola Mundo de Github")
+```
